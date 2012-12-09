@@ -5,9 +5,11 @@ The BibTeX bibliography manager is intended to facilitate use of BibTeX referenc
 
 The main features of this product are:
 
-• reading / writing BibTeX files and providing some compatibility with other formats
-•	organizing, categorizing, and annotating citations
-•	browsing, editing, and developing new citations
+ •  reading / writing BibTeX files and providing some compatibility with other formats
+
+ •	organizing, categorizing, and annotating citations
+
+ •	browsing, editing, and developing new citations
 
 
 This was a group project for the FALL 2012 CSC 232 Object-oriented Software Development class of DePauw University.

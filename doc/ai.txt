@@ -1,0 +1,1881 @@
+@inproceedings{system-movielens,
+   author = "Bradley N. Miller and Istvan Albert and Shyong K. Lam and Joseph A. Konstan and John Riedl",
+   title = {MovieLens Unplugged: Experiences with an Occasionally Connected Recommender System},
+   address = {Chapel Hill North Carolina},
+   booktitle = "Proceedings of ACM 2003 Conference on Intelligent User Interfaces IUI03 Accepted Poster",
+   year = 2003,
+   url = "citeseer.ist.psu.edu/miller03movielens.html",
+   publisher = ACM,
+}
+
+
+
+@article{herlocker2004,
+   journal = "ACM Trans. Inf. Syst.",
+   author = "Herlocker Jonathan  L.  and Konstan Joseph  A.  and Terveen Loren  G.  and Riedl John  T. ",
+   title = {Evaluating collaborative filtering recommender systems},
+   address = {New York NY USA},
+   pages = {5-53},
+   volume = "22",
+   number = 1,
+   year = {2004},
+   url = {http://portal.acm.org/citation.cfmid963770.963772},
+   publisher = "ACM Press"
+}
+
+
+
+@article{thompson2004,
+   journal = {Artificial Intelligence Research JAIR},
+   author = "C. Thompson and M. Goker and P. Langley",
+   title = {A Personalized System for Conversational Recommendations},
+   pages = {393-428},
+   volume = {21},
+   year = "2004"
+}
+
+
+
+@article{schafer2004,
+   journal = {IEE Proceedings - Software},
+   author = "J. B. Schafer and J.A. Konstan and J. Riedl",
+   title = {The View through MetaLens: Usage Patterns for a Meta-Recommendation System},
+   pages = "267-279",
+   volume = 151,
+   number = {6},
+   year = "2004",
+}
+
+
+
+@article{branting2001acp,
+   journal = {Proceedings of the 4th International Conference on Case-Based Reasoning. Springer},
+   author = {Branting K.},
+   title = "Acquiring Customer Preferences from Return-Set Selections",
+   year = 2001,
+   publisher = "Springer"
+}
+
+
+
+@techreport{chen2004spe,
+   author = {Chen L. and Pu P.},
+   title = "Survey of Preference Elicitation Methods",
+   year = 2004,
+   institution = {EPFL Technical Report IC/2004},
+}
+
+
+
+@article{stahl2002dsm,
+   journal = {Proceedings of the 6th European Conference on Case-Based Reasoning. Springer},
+   author = {Stahl A.},
+   title = {Defining Similarity Measures: Top-Down vs. Bottom-Up},
+   year = {2002},
+   publisher = Springer
+}
+
+
+
+@article{stahl2001lfw,
+   journal = {Proceedings of the 4th International Conference on Case-Based Reasoning. Springer},
+   author = {Stahl A.},
+   title = "Learning Feature Weights from Case Order Feedback",
+   year = 2001,
+   publisher = {Springer}
+}
+
+
+
+@unpublished{deelman-gil06,
+   AUTHOR = "E. Deelman and Y. Gil",
+   YEAR = "2006",
+   NOTE = "Accessed October 31 2007 at        http://vtcpc.isi.edu/wiki/images/b/bf/NSFWorkflow-Final.pdf",
+   TITLE = "Workshop on the Challenges of Scientific Workflows"
+}
+
+
+
+@article{kim-et-al07,
+   journal = {Journal of Concurrency and Computation: Practice and Experience},
+   author = "J. Kim and E. Deelman and Y. Gil and G. Mehta and V. Ratnaker",
+   title = "Provenance Trails in the Wings/uppercasePegasus System",
+   year = {2007}
+}
+
+
+
+@article{perner-holt-richter05,
+   journal = {Knowledge Engineering Review},
+   author = {P. Perner and A. Holt and Michael Richter},
+   title = "Image Processing in Case-Based Reasoning",
+   pages = "311-314",
+   volume = 20,
+   number = 3,
+   year = {2005}
+}
+
+
+
+@article{plaza-mcginty05,
+   journal = {Knowledge Engineering Review},
+   author = "E. Plaza and L. McGinty",
+   title = {Distributed Case-Based Reasoning},
+   pages = "315-320",
+   volume = 20,
+   number = {3},
+   year = 2005
+}
+
+
+
+@inproceedings{penberthy92ucpop,
+   author = "J. Penberthy and D. Weld",
+   title = "uppercaseUCPOP: A sound complete partial order plannerfor uppercaseADL",
+   pages = {103-114},
+   booktitle = {Proceedings of the Third International Conference onPrinciples of   Knowledge Representation and Reasoning},
+   year = 1992,
+   publisher = {Morgan Kaufmann}
+}
+
+
+
+@inproceedings{leake-powell07,
+   author = "D. Leake and J. Powell",
+   title = "Mining Large-Scale Knowledge Sources for Case AdaptationKnowledge",
+   editor = {R. Weber and M. Richter},
+   address = Berlin,
+   pages = {209-223},
+   year = 2007,
+   booktitle = "Proceedings of the Seventh International Conference onCase-Based Reasoning",
+   publisher = {Springer Verlag}
+}
+
+
+
+@inproceedings{baccigalupo-plaza07,
+   author = {C. Baccigalupo and E. Plaze},
+   title = {A Case-Based Song Scheduler for Group Customised Radio},
+   editor = {R. Weber and M. Richter},
+   address = Berlin,
+   pages = {433-448},
+   year = 2007,
+   booktitle = "Proceedings of the Seventh International Conference onCase-Based Reasoning",
+   publisher = {Springer Verlag}
+}
+
+
+
+@inproceedings{ponzetto07,
+   author = "S. P. Ponzetto and M. Strube",
+   title = {Deriving a Large Scale Taxonomy from Wikipedia},
+   year = 2007,
+   booktitle = "Proceedings of the Twenty-Second National Conference onArtificial Intelligence",
+   publisher = {AAAI Press / MIT Press}
+}
+
+
+
+@article{munoz-avila-cox-in-press,
+   journal = "uppercaseIEEE Intelligent Systems",
+   author = {Munoz-Avila and M. Cox},
+   title = "Case-based plan adaptation: An analysis and review",
+   year = "2000"
+}
+
+
+
+@inproceedings{fox00,
+   author = {S. Fox},
+   title = "Reflective Introspective Reasoning Through uppercaseCBR",
+   year = {2000},
+   booktitle = "Proceedings of the Twenty-Second Annual Meeting of theCognitive Science Society",
+   publisher = "Lawrence Erlbaum Associates"
+}
+
+
+
+@article{stroulia-goel95,
+   journal = {Applied Artificial Intelligence Special Issue on Functional Reasoning},
+   author = "E. Stroulia and A. Goel",
+   title = {Functional Representation and Reasoning in Reflective Systems},
+   pages = "101-124",
+   volume = "9",
+   year = {1995},
+   number = {1}
+}
+
+
+
+@incollection{rosenbloom-laird-newell93,
+   author = "P.S. Rosenbloom and J.E. Laird and A. Newell",
+   title = "Meta-Levels in Soar",
+   editor = "P.S. Rosenbloom and J.E. Laird and A. Newell",
+   pages = "639-652",
+   year = "1993",
+   booktitle = {The SOAR Papers Vol. 1},
+   publisher = "MIT Press"
+}
+
+
+
+@techreport{cox-raja08,
+   AUTHOR = "M. Cox and A. Raja",
+   INSTITUTION = {BBN},
+   YEAR = 2008,
+   COMMENT = {http://www.mcox.org/Metareasoning/Manifesto/manifesto.pdf},
+   TYPE = {Technical Memo},
+   NUMBER = 2028,
+   TITLE = {Metareasoning:  A Manifesto}
+}
+
+
+
+@article{bachant_mcdermott84,
+   journal = "AI Magazine",
+   author = "Bachant J. and McDermott J.",
+   title = "R1 revisited: four years in the trenches",
+   volume = 5,
+   number = 3,
+   year = 1984,
+}
+
+
+
+@article{anderson-oates07,
+   journal = {AI Magazine},
+   author = {M. Anderson and T. Oates},
+   title = "A Review of Recent Research in Metareasoning and Metalearning",
+   volume = 28,
+   number = 1,
+   year = 2007,
+}
+
+
+
+@article{hansen-zilberstein01,
+   journal = "Artificial Intelligence",
+   author = "E. Hansen and S. Zilberstein",
+   title = "Monitoring and Control of Anytime Algorithms:  A DynamicProgramming Approach",
+   pages = "139-157",
+   volume = "126",
+   year = 2001,
+   number = {1-2},
+}
+
+
+
+@article{raja-lesser07,
+   journal = "Autonomous Agents and Multi-Agent Systems",
+   author = "A. Raja and V. Lesser",
+   title = {A Framework for Meta-Level Control in Multi-Agent Systems},
+   pages = {147-196},
+   volume = 15,
+   year = "2007",
+   number = 2
+}
+
+
+
+@article{murdock-goel08,
+   journal = "Journal of Experimental and Theoretical Artificial Intelligence",
+   author = {J.W. Murdock and A.Goel},
+   title = {Mata-case-based reasoning: self-improvement through self-understanding},
+   pages = "1--36",
+   volume = 20,
+   number = 1,
+   year = 2008
+}
+
+
+
+@article{rial-et-al01,
+   journal = {Computing and Information Systems},
+   author = "Reyes Pavon Rial and Rosalia Laza Fidalgo            and Alma Gomez Rodriguez and Juan Corchado Rodriguez",
+   title = "Improving the Revision Stage of a CBR System with Belief Revision Techniques",
+   pages = {40--45},
+   volume = "8",
+   year = 2001,
+}
+
+
+
+@article{alchourron-et-al85,
+   journal = "Journal of Symbolic Logic",
+   author = {C. Alchourron and P. Gardenfors and D. Makinson},
+   title = "On the Logic of Theory Change: Partial Meet Contraction and Revision Functions",
+   pages = "530--541",
+   volume = "50",
+   year = 1985
+}
+
+
+
+@misc{homefinder07,
+   author = "Bloomington MLS Inc.",
+   title = {homefinder.org},
+   year = "2007",
+   url = {http://www.homefinder.org/}
+}
+
+
+
+@techreport{asuncion-newman07,
+   author = {A. Asuncion and D.J. Newman},
+   title = {uppercaseUCI Machine Learning Repository},
+   year = {2007},
+   url = "http://www.ics.uci.edu/simmlearn/MLRepository.html",
+   institution = "University of California Irvine School of Information and                 Computer Sciences"
+}
+
+
+
+@inproceedings{leake-morwick08,
+   author = {D. Leake and J. Kendall-Morwick},
+   title = {Towards Case-Based Support for e-Science Workflow Generation by  Mining Provenance Information},
+   location = {Berlin},
+   pages = "269-283",
+   booktitle = "Proceedings of the Ninth European Conference on Case-Based Reasoning",
+   year = "2008",
+   publisher = {Springer}
+}
+
+
+
+@inproceedings{leake-morwick09,
+   author = {D. Leake and J. Kendall-Morwick},
+   title = {Four Heads Are Better than One: Combining Suggestions for Case Adaptation},
+   location = Berlin,
+   pages = {165-179},
+   booktitle = "Proceedings of the Eighth International Conference on Case-Based Reasoning",
+   year = 2009,
+   editors = {L. McuppercaseGinty and D. Wilson},
+   publisher = Springer,
+}
+
+
+
+@inproceedings{leake-dial08,
+   author = {D. Leake and S. Dial},
+   title = {Using Case Provenance to Propagate Feedback to Cases and Adaptations},
+   location = Berlin,
+   pages = {255-268},
+   booktitle = "Proceedings of the Ninth European Conference on Case-Based Reasoning",
+   year = 2008,
+   editors = {K.-D. Althoff and R. Bergmann and M. Minor and M. Hanft},
+   publisher = Springer
+}
+
+
+
+@inproceedings{smyth-briggs08,
+   author = "P. Briggs and B. Smyth",
+   title = "Provenance Trust and Sharing in Peer-to-Peer Case-Based Web Search",
+   location = Berlin,
+   pages = "89-103",
+   booktitle = {Proceedings of the Ninth European Conference on Case-Based Reasoning},
+   year = "2008",
+   publisher = {Springer}
+}
+
+
+
+@inproceedings{stahl-bergmann00,
+   author = "Armin Stahl and Ralph Bergmann",
+   title = "Applying Recursive uppercaseCBR for the Customization of Structured Products in an Electronic Shop",
+   location = Berlin,
+   pages = {297-308},
+   booktitle = {Proceedings of the Fifth European Workshop on                  Case-Based Reasoning},
+   year = {2000},
+   publisher = {Springer}
+}
+
+
+
+@inproceedings{leake-powell08,
+   author = "D. Leake and J. Powell",
+   title = {Knowledge Planning and Learned Personalization for uppercaseWeb-Based Case Adaptation},
+   editor = "K.D. Althoff and R. Bergmann and M. Minor and A. Hanft",
+   address = Berlin,
+   pages = "284-298",
+   year = "2008",
+   booktitle = {Advances in Case Based Reasoning: 9th European Conference},
+   publisher = {Springer Verlag}
+}
+
+
+
+@inproceedings{cordier-et-al08,
+   author = {A. Cordier and B. Fuchs and L. Lana de Carvalho and J. Lieber and A. Mille},
+   title = {Opportunistic Acquisition of Adaptation Knowledge and Cases - The uppercaseIAKA Approach},
+   editor = {K.D. Althoff and R. Bergmann and M. Minor and A. Hanft},
+   address = Berlin,
+   year = 2008,
+   booktitle = {Advances in Case Based Reasoning: 9th European Conference},
+   publisher = {Springer Verlag}
+}
+
+
+
+@unpublished{macwidget08,
+   author = {Apple},
+   title = "Mac OS X Dashboard Widgets",
+   year = {2008},
+   NOTE = "Accessed October 1 2008 at http://www.apple.com/downloads/dashboard/",
+}
+
+
+
+@unpublished{epicurious08,
+   author = Epicurious,
+   title = {Epicurious.com: Recipes Menus Cooking Articles and Food Guides},
+   year = 2008,
+   NOTE = {Accessed July 15 2008 at http://www.epicurious.com/},
+}
+
+
+
+@unpublished{usda08,
+   author = {U.S. Department of Agriculture Agricultural Research Service},
+   title = "uppercaseUSDA National Nutrient Database for Standard Reference Release 21",
+   year = {2008},
+   NOTE = {Nutrient Data Laboratory Home Page http://www.ars.usda.gov/ba/bhnrc/ndl},
+}
+
+
+
+@article{munoz-avila-cox-2008,
+   journal = "uppercaseIEEE Intelligent Systems",
+   author = "Munoz-Avila and M. Cox",
+   title = "Case-based plan adaptation: An analysis and review",
+   year = 2008,
+}
+
+
+
+@inproceedings{carman-knoblock07,
+   author = "M. J. Carman and C. A. Knoblock",
+   title = {Learning Semantic Descriptions of Web Information Sources},
+   address = "San Mateo",
+   pages = {2695-2700},
+   booktitle = {Proceedings of the Twentieth International Joint  Conference on Artificial Intelligence IJCAI-07},
+   year = {2007},
+   publisher = "Morgan Kaufmann"
+}
+
+
+
+@article{mcsherry00-recog,
+   journal = "Proceedings of the 11th Irish Conference on Artificial Intelligence and Cognitive Science",
+   author = {D. McuppercaseSherry},
+   title = {The case-recognition problem in intelligent case-authoring},
+   pages = "180-189",
+   year = 2000,
+   publisher = Springer,
+}
+
+
+
+@unpublished{wikipedia-sphere-packing10,
+   author = WikimediaFoundation,
+   title = {Sphere Packing},
+   year = "2010",
+   NOTE = {Accessed February 27 2010 at  protecthttp://en.wikipedia.org/wiki/Sphere_packing},
+}
+
+
+
+@unpublished{random-packing-image10,
+   author = "Complex-Materials-Theory-Group",
+   title = {Random Sphere Packing},
+   year = "2010",
+   NOTE = "Accessed February 20 2010 at  http://cherrypit.princeton.edu/"
+}
+
+
+
+@inproceedings{massie-craw-wiratunga05,
+   author = {Massie Stewart and Craw Susan and Wiratunga Nirmalie},
+   title = {Complexity-guided case discovery for case based reasoning},
+   location = {Pittsburgh Pennsylvania},
+   isbn = {1-57735-236-x},
+   pages = "216--221",
+   booktitle = {AAAI05: Proceedings of the 20th national conference on Artificial intelligence},
+   year = {2005},
+   publisher = {AAAI Press}
+}
+
+
+
+@article{althoff-aamodt96,
+   journal = {Artificial Intelligence Communications},
+   author = {K.-D. Althoff and A. Aamodt},
+   title = {Relating Case-Based Problem Solving and Learning Methods to Task and Domain Characteristics: Towards an Analytic Framework},
+   pages = "11-6",
+   volume = "9",
+   year = "1996",
+}
+
+
+
+@article{simmhan08karma2:provenance,
+   journal = "International Journal of Web Services Research Idea GroupPublishing",
+   author = "Yogesh L. Simmhan and Beth Plale and Dennis Gannon",
+   title = "Karma2: Provenance management for data driven workflows",
+   pages = {1-22},
+   volume = 5,
+   year = "2008"
+}
+
+
+
+@article{plaza09,
+   journal = {Kunstliche Intelligenz},
+   author = {E. Plaza},
+   title = "On Reusing Other Peoples Experiences",
+   pages = {18-23},
+   volume = {23},
+   year = {2009}
+}
+
+
+
+@techreport{opm:2008,
+   author = {Luc Moreau},
+   title = "The Open Provenance Model",
+   year = 2008,
+   institution = {University of Southampton}
+}
+
+
+
+@proceedings{webcbr-workshop09,
+   EDITOR = {D. Bridge and E. Plaza and N. Wiratunga},
+   ORGANIZATION = ICCBR,
+   ADDRESS = "Seattle WA",
+   YEAR = "2009",
+   NOTE = {uppercaseICCBR 2009 Workshop},
+   MONTH = July,
+   TITLE = "Reasoning from Experiences on the Web"
+}
+
+
+
+@proceedings{webcbr-workshop10,
+   EDITOR = {D. Bridge and S.J. Delany and E. Plaza and B. Smyth             and N. Wiratunga},
+   ORGANIZATION = "ICCBR",
+   ADDRESS = "Alessandria Italy",
+   YEAR = "2010",
+   MONTH = July,
+   TITLE = "WebuppercaseCBR: Reasoning from Experiences on the Web uppercaseICCBR 2010 Workshop"
+}
+
+
+
+@unpublished{leake-powell10-retention-in-press,
+   AUTHOR = {D. Leake and J. Powell},
+   YEAR = 2010,
+   NOTE = Submitted,
+   TITLE = {On Retaining Web Search Cases}
+}
+
+
+
+@article{1350753,
+   journal = "Concurr. Comput. : Pract. Exper.",
+   author = {Moreau Luc and Ludascher Bertram and Altintas Ilkay and Barga Roger S. and Bowers Shawn and Callahan Steven and ChinJr. George and Clifford Ben and Cohen Shirley and Cohen-Boulakia Sarah and Davidson Susan and Deelman Ewa and Digiampietri Luciano and Foster Ian and Freire Juliana and Frew James and Futrelle Joe and Gibson Tara and Gil Yolanda and Goble Carole and Golbeck Jennifer and Groth Paul and Holland David A. and Jiang Sheng and Kim Jihie and Koop David and Krenek Ales and McPhillips Timothy and Mehta Gaurang and Miles Simon and Metzger Dominic and Munroe Steve and Myers Jim and Plale Beth and Podhorszki Norbert and Ratnakar Varun and Santos Emanuele and Scheidegger Carlos and Schuchardt Karen and Seltzer Margo and Simmhan Yogesh L. and Silva Claudio and Slaughter Peter and Stephan Eric and Stevens Robert and Turi Daniele and Vo Huy and Wilde Mike and Zhao Jun and Zhao Yong},
+   title = {Special Issue: The First Provenance Challenge},
+   issn = "1532-0626",
+   address = {Chichester UK},
+   pages = {409--418},
+   volume = {20},
+   number = "5",
+   year = 2008,
+   doi = "http://dx.doi.org/10.1002/cpe.v20:5",
+   publisher = "John Wiley and Sons Ltd.",
+}
+
+
+
+@inproceedings{leake-powell10,
+   author = "D. Leake and J. Powell",
+   title = {A General Introspective Reasoning Approach to Web Search for  Case Adaptation},
+   editor = "I. Bichindaritz and S. Montani",
+   address = "Berlin",
+   year = {2010},
+   booktitle = {Proceedings of the Ninth International Conference onCase-Based Reasoning},
+   note = {In press},
+   publisher = "Springer Verlag"
+}
+
+
+
+@proceedings{bunescu-gabrilovich-mihalcea08,
+   EDITOR = "R. Bunescu and E. Gabrilovich and R. Mihalcea",
+   ADDRESS = {Stanford CA},
+   YEAR = {2008},
+   PUBLISHER = "uppercaseAAAI Press",
+   NOTE = {Technical Report WS-08-55},
+   TITLE = "Proceedings of the 2008 AAAI Workshop on Wikipedia and                  Artificial Intelligence: An Evolving Synergy",
+}
+
+
+
+@article{1148448,
+   journal = "Concurr. Comput. : Pract. Exper.",
+   author = {Tom Oinn and Mark Greenwood and Matthew Addis and M. Nedim Alpdemir and Justin Ferris and Kevin Glover and Carole Goble and Antoon Goderis and Duncan Hull and Darren Marvin and Peter Li and Phillip Lord and Matthew R. Pocock and Martin Senger and Robert Stevens and Anil Wipat and Chris Wroe},
+   title = {Taverna: lessons in creating a workflow environment for the life sciences: Research Articles},
+   issn = "1532-0626",
+   address = {Chichester UK UK},
+   pages = "1067--1100",
+   volume = "18",
+   number = "10",
+   year = {2006},
+   doi = "http://dx.doi.org/10.1002/cpe.v18:10",
+   publisher = {John Wiley and Sons Ltd.}
+}
+
+
+
+@article{minor2007,
+   journal = {International Journal of Intelligent Information Technologies },
+   author = " Mirjam Minor and Alexander Tartakovski and Daniel Schmalen and Ralph Bergmann",
+   title = {Agile Workflow Technology and Case-Based Change Reuse for Long-Term Processes },
+   year = "2007"
+}
+
+
+
+@article{dblp:journals/dke/madhusudanzm04,
+   journal = "Data Knowl. Eng.",
+   author = "Therani Madhusudan and               J. Leon Zhao and               Byron Marshall",
+   title = "A case-based reasoning framework for workflow model management",
+   ee = "http://dx.doi.org/10.1016/j.datak.2004.01.005",
+   bibsource = {DBLP http://dblp.uni-trier.de},
+   pages = "87-115",
+   volume = 50,
+   number = "1",
+   year = 2004
+}
+
+
+
+@article{dblp:journals/eswa/kimsl02,
+   journal = {Expert Syst. Appl.},
+   author = {Jae Ho Kim and               Woojong Suh and               Heeseok Lee},
+   title = "Document-based workflow modeling: a case-based reasoning               approach",
+   ee = "http://dx.doi.org/10.1016/S0957-41740200028-3",
+   bibsource = "DBLP http://dblp.uni-trier.de",
+   pages = "77-93",
+   volume = 23,
+   number = "2",
+   year = {2002}
+}
+
+
+
+@proceedings{dblp:conf/ewcbr/2004,
+   series = "Lecture Notes in Computer Science",
+   title = {Advances in Case-Based Reasoning 7th European Conference               ECCBR 2004 Madrid Spain August 30 - September 2 2004               Proceedings},
+   bibsource = "DBLP http://dblp.uni-trier.de",
+   isbn = "3-540-22882-9",
+   volume = "3155",
+   booktitle = {ECCBR},
+   year = 2004,
+   publisher = {Springer}
+}
+
+
+
+@proceedings{dblp:conf/ewcbr/2006,
+   series = "Lecture Notes in Computer Science",
+   title = {Advances in Case-Based Reasoning 8th European Conference               ECCBR 2006 Fethiye Turkey September 4-7 2006 Proceedings},
+   bibsource = {DBLP http://dblp.uni-trier.de},
+   isbn = {3-540-36843-4},
+   volume = 4106,
+   booktitle = "ECCBR",
+   year = "2006",
+   publisher = "Springer"
+}
+
+
+
+@proceedings{dblp:conf/bpm/2003,
+   series = "Lecture Notes in Computer Science",
+   title = {Business Process Management International Conference BPM               2003 Eindhoven The Netherlands June 26-27 2003 Proceedings},
+   bibsource = {DBLP http://dblp.uni-trier.de},
+   isbn = {3-540-40318-3},
+   volume = 2678,
+   booktitle = "Business Process Management",
+   year = "2003",
+   publisher = "Springer",
+}
+
+
+
+@proceedings{dblp:conf/iccbr/2003,
+   series = "Lecture Notes in Computer Science",
+   title = "Case-Based Reasoning Research and Development 5th International               Conference on Case-Based Reasoning ICCBR 2003 Trondheim               Norway June 23-26 2003 Proceedings",
+   bibsource = {DBLP http://dblp.uni-trier.de},
+   isbn = {3-540-40433-3},
+   volume = {2689},
+   booktitle = "ICCBR",
+   year = "2003",
+   publisher = "Springer"
+}
+
+
+
+@article{2004agufmsf33b..03d,
+   journal = "AGU Fall Meeting Abstracts",
+   author = { K. Droegemeier},
+   title = "Linked Environments for Atmospheric Discovery LEAD: A Cyberinfrastructure for Mesoscale Meteorology Research and Education",
+   adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+   month = {dec},
+   year = 2004,
+   adsurl = {http://adsabs.harvard.edu/abs/2004AGUFMSF33B..03D}
+}
+
+
+
+@misc{greenwood03provenance,
+   author = "M. Greenwood and C. Goble and R. Stevens and J. Zhao and M. Addis and D.    Marvin and L. Moreau and T. Oinn",
+   title = {Provenance of e-Science Experiments - experience from Bioinformatics},
+   text = "M. Greenwood C. Goble R. Stevens J. Zhao M. Addis D. Marvin L. Moreau    and T. Oinn Provenance of e-Science Experiments - experience from Bioinformatics    in Proceedings of the UK OST e-Science 2nd AHM 2003.",
+   year = 2003,
+   url = "citeseer.ist.psu.edu/greenwood03provenance.html"
+}
+
+
+
+@article{1190302,
+   journal = "Concurr. Comput. : Pract. Exper.",
+   author = {Chris Wroe and Carole Goble and Antoon Goderis and Phillip Lord and Simon Miles and Juri Papay and Pinar Alper and Luc Moreau},
+   title = {Recycling workflows and services through discovery and reuse: Research Articles},
+   issn = {1532-0626},
+   address = "Chichester UK UK",
+   pages = "181--194",
+   volume = {19},
+   number = "2",
+   year = 2007,
+   doi = "http://dx.doi.org/10.1002/cpe.v19:2",
+   publisher = {John Wiley and Sons Ltd.}
+}
+
+
+
+@inproceedings{xiangm07,
+   author = {Xiaorong Xiang and Gregory R. Madey},
+   title = {Improving the Reuse of Scientific Workflows and Their By-products.},
+   ee = {http://doi.ieeecomputersociety.org/10.1109/ICWS.2007.107},
+   keywords = "dblp ",
+   description = dblp,
+   pages = "792-799",
+   booktitle = ICWS,
+   year = "2007",
+   date = {2007-08-28},
+   url = "http://dblp.uni-trier.de/db/conf/icws/icws2007.htmlXiangM07",
+   publisher = {IEEE Computer Society}
+}
+
+
+
+@article{1093073,
+   journal = Bioinformatics,
+   author = "Tom Oinn and Matthew Addis and Justin Ferris and Darren Marvin and Martin Senger and Mark Greenwood and Tim Carver and Kevin Glover and Matthew R. Pocock and Anil Wipat and Peter Li",
+   title = {Taverna: a tool for the composition and enactment of bioinformatics workflows},
+   issn = "1367-4803",
+   address = "Oxford UK",
+   pages = "3045--3054",
+   volume = 20,
+   number = 17,
+   year = "2004",
+   doi = {http://dx.doi.org/10.1093/bioinformatics/bth361},
+   publisher = {Oxford University Press}
+}
+
+
+
+@phdthesis{xbaya-phd,
+   author = "Satoshi Shirasuna",
+   title = "A Dynamic Scientific Workflow System for the WebServices Architecture",
+   school = {Indiana University},
+   month = September,
+   year = {2007}
+}
+
+
+
+@misc{weijters01process,
+   author = {T. Weijters and W. van der Aalst},
+   title = "Process Mining: Discovering Workflow Models from EventBased Data",
+   text = {T. Weijters W.M.P. van der Aalst. Process Mining: Discovering Workflow    Models from EventBased Data. In Krse B. et. al eds.: Proceedings 13th    Belgium-Netherlands Conference on Artificial Intelligence BNAIC01 25-26    October 2001 Amsterdam The Netherlands pp. 283-290.},
+   year = "2001",
+   url = {citeseer.ist.psu.edu/weijters01process.html}
+}
+
+
+
+@article{van:july2003:0926-8782:5,
+   journal = "Distributed and Parallel Databases",
+   abstract = "PDifferences in features supported by the various contemporary commercial workflow management systems point to different insights of Isuitability/I and different levels of Iexpressive power/I. The challenge which we undertake in this paper is to systematically address workflow requirements from basic to complex. Many of the more complex requirements identified recur quite frequently in the analysis phases of workflow projects however their implementation is uncertain in current products. Requirements for workflow languages are indicated through workflow Ipatterns/I. In this context patterns address business requirements in an imperative workflow style expression but are removed from specific workflow languages. The paper describes a number of workflow patterns addressing what we believe identify comprehensive workflow functionality. These patterns provide the basis for an in-depth comparison of a number of commercially available workflow management systems. As such this paper can be seen as the academic response to evaluations made by prestigious consulting companies. Typically these evaluations hardly consider the workflow modeling language and routing capabilities and focus more on the purely technical and commercial aspects./P",
+   author = {van der Aalst W.M.P. and ter Hofstede A.H.M. and Kiepuszewski B. and Barros A.P.},
+   title = "Workflow Patterns",
+   pages = {5-5147},
+   volume = 14,
+   year = {2003},
+   url = "http://www.ingentaconnect.com/content/klu/dapd/2003/00000014/00000001/05117545"
+}
+
+
+
+@inproceedings{1185498,
+   author = "Aubrey J. Rembert",
+   title = "Comprehensive workflow mining",
+   location = "Melbourne Florida",
+   address = {New York NY},
+   isbn = "1-59593-315-8",
+   pages = {222--227},
+   booktitle = "ACM-SE 44: Proceedings of the 44th annual Southeast regional conference",
+   year = "2006",
+   doi = "http://doi.acm.org/10.1145/1185448.1185498",
+   publisher = {ACM}
+}
+
+
+
+@article{1273325,
+   journal = {Integr. Comput.-Aided Eng.},
+   author = {A. J. M. M. Weijters and W. M. P. van der Aalst},
+   title = "Rediscovering workflow models from event-based data using little thumb",
+   issn = {1069-2509},
+   address = {Amsterdam The Netherlands The Netherlands},
+   pages = {151--162},
+   volume = 10,
+   number = "2",
+   year = "2003",
+   publisher = {IOS Press}
+}
+
+
+
+@article{1018329,
+   journal = "IEEE Transactions on Knowledge and Data Engineering",
+   author = {Wil van der Aalst and Ton Weijters and Laura Maruster},
+   title = "Workflow Mining: Discovering Process Models from Event Logs",
+   issn = "1041-4347",
+   address = "Piscataway NJ",
+   pages = {1128--1142},
+   volume = 16,
+   number = 9,
+   year = "2004",
+   doi = "http://dx.doi.org/10.1109/TKDE.2004.47",
+   publisher = "IEEE Educational Activities Department"
+}
+
+
+
+@article{982251,
+   journal = {Comput. Ind.},
+   author = {W. M. P. van der Aalst and A. J. M. M. Weijters},
+   title = {Process mining: a research agenda},
+   issn = "0166-3615",
+   address = {Amsterdam The Netherlands The Netherlands},
+   pages = {231--244},
+   volume = {53},
+   number = 3,
+   year = "2004",
+   doi = "http://dx.doi.org/10.1016/j.compind.2003.10.001",
+   publisher = "Elsevier Science Publishers B. V."
+}
+
+
+
+@article{982253,
+   journal = {Comput. Ind.},
+   author = "Guido Schimm",
+   title = "Mining exact models of concurrent workflows",
+   issn = {0166-3615},
+   address = "Amsterdam The Netherlands The Netherlands",
+   pages = "265--281",
+   volume = "53",
+   number = {3},
+   year = 2004,
+   doi = {http://dx.doi.org/10.1016/j.compind.2003.10.003},
+   publisher = "Elsevier Science Publishers B. V."
+}
+
+
+
+@article{982252,
+   journal = {Comput. Ind.},
+   author = {Joachim Herbst and Dimitris Karagiannis},
+   title = "Workflow mining with InWoLvE",
+   issn = "0166-3615",
+   address = "Amsterdam The Netherlands The Netherlands",
+   pages = {245--264},
+   volume = 53,
+   number = "3",
+   year = 2004,
+   doi = "http://dx.doi.org/10.1016/j.compind.2003.10.002",
+   publisher = "Elsevier Science Publishers B. V.",
+}
+
+
+
+@article{1120678,
+   journal = "Data Knowl. Eng.",
+   author = {Markus Hammori and Joachim Herbst and Niko Kleiner},
+   title = {Interactive workflow mining: requirements concepts and implementation},
+   issn = "0169-023X",
+   address = {Amsterdam The Netherlands The Netherlands},
+   pages = {41--63},
+   volume = {56},
+   number = 1,
+   year = 2006,
+   doi = {http://dx.doi.org/10.1016/j.datak.2005.02.006},
+   publisher = "Elsevier Science Publishers B. V.",
+}
+
+
+
+@inproceedings{650397,
+   author = "Rakesh Agrawal and Dimitrios Gunopulos and Frank Leymann",
+   title = {Mining Process Models from Workflow Logs},
+   address = {London UK},
+   isbn = {3-540-64264-1},
+   pages = {469--483},
+   booktitle = "EDBT 98: Proceedings of the 6th International Conference on Extending Database Technology",
+   year = 1998,
+   publisher = "Springer-Verlag",
+}
+
+
+
+@article{1115461,
+   journal = {Data Knowl. Eng.},
+   author = {Schahram Dustdar and Thomas Hoffmann and Wil van der Aalst},
+   title = {Mining of ad-hoc business processes with TeamLog},
+   issn = "0169-023X",
+   address = {Amsterdam The Netherlands The Netherlands},
+   pages = "129--158",
+   volume = "55",
+   number = "2",
+   year = 2005,
+   doi = {http://dx.doi.org/10.1016/j.datak.2005.02.002},
+   publisher = {Elsevier Science Publishers B. V.}
+}
+
+
+
+@article{1141076,
+   journal = {Data Knowl. Eng.},
+   author = "M. H. Jansen-Vullers and W. M. P. van der Aalst and M. Rosemann",
+   title = "Mining configurable enterprise information systems",
+   issn = {0169-023X},
+   address = "Amsterdam The Netherlands The Netherlands",
+   pages = {195--244},
+   volume = {56},
+   number = "3",
+   year = {2006},
+   doi = "http://dx.doi.org/10.1016/j.datak.2005.03.007",
+   publisher = {Elsevier Science Publishers B. V.}
+}
+
+
+
+@inproceedings{1273369,
+   author = "Deana D. Pennington",
+   title = "Supporting large-scale science with workflows",
+   location = {Monterey California},
+   address = "New York NY",
+   isbn = {978-1-59593-715-5},
+   pages = {45--52},
+   booktitle = "WORKS 07: Proceedings of the 2nd workshop on Workflows in support of large-scale science",
+   year = 2007,
+   doi = "http://doi.acm.org/10.1145/1273360.1273369",
+   publisher = {ACM},
+}
+
+
+
+@inproceedings{1273361,
+   author = {Carole Anne Goble and David Charles De Roure},
+   title = "myuppercaseExperiment: social networking for workflow-using e-scientists",
+   location = {Monterey California},
+   address = {New York NY},
+   isbn = {978-1-59593-715-5},
+   pages = {1--2},
+   booktitle = {WORKS 07: Proceedings of the 2nd workshop on Workflows in support of large-scale science},
+   year = 2007,
+   doi = {http://doi.acm.org/10.1145/1273360.1273361},
+   publisher = "ACM"
+}
+
+
+
+@article{586704,
+   journal = "J. Intell. Inf. Syst.",
+   author = "Shengli Wu and Amit Sheth and John Miller and Zongwei Luo",
+   title = "Authorization and Access Control of Application Data in Workflow Systems",
+   issn = {0925-9902},
+   address = {Hingham MA},
+   pages = {71--94},
+   volume = 18,
+   number = "1",
+   year = 2002,
+   doi = "http://dx.doi.org/10.1023/A:1012972608697",
+   publisher = "Kluwer Academic Publishers",
+}
+
+
+
+@inproceedings{373266,
+   author = "Myong H. Kang and Joon S. Park and Judith N. Froscher",
+   title = {Access control mechanisms for inter-organizational workflow},
+   location = {Chantilly Virginia United States},
+   address = "New York NY",
+   isbn = "1-58113-350-2",
+   pages = "66--74",
+   booktitle = "SACMAT 01: Proceedings of the sixth ACM symposium on Access control models and technologies",
+   year = "2001",
+   doi = {http://doi.acm.org/10.1145/373256.373266},
+   publisher = "ACM"
+}
+
+
+
+@article{1107389,
+   journal = "Comput. Supported Coop. Work",
+   author = "Wil M. P. Van Der Aalst and Hajo A. Reijers and Minseok Song",
+   title = "Discovering Social Networks from Event Logs",
+   issn = "0925-9724",
+   address = "Norwell MA",
+   pages = "549--593",
+   volume = 14,
+   number = {6},
+   year = {2005},
+   doi = {http://dx.doi.org/10.1007/s10606-005-9005-9},
+   publisher = "Kluwer Academic Publishers"
+}
+
+
+
+@article{anandan2006,
+   journal = "Computer-Aided Design and Applications",
+   author = "Srinivasan Anandan and Joshua D. Summers",
+   title = {Similarity Metrics Applied to Graph Based Design Model Authoring},
+   pages = {297-306},
+   volume = {3},
+   year = "2006",
+   number = {1-4}
+}
+
+
+
+@inproceedings{964466,
+   author = {Jihie Kim and Marc Spraragen and Yolanda Gil},
+   title = "An intelligent assistant for interactive workflow composition",
+   location = "Funchal Madeira Portugal",
+   address = "New York NY",
+   isbn = {1-58113-815-6},
+   pages = {125--131},
+   booktitle = "IUI 04: Proceedings of the 9th international conference on Intelligent user interfaces",
+   year = {2004},
+   doi = {http://doi.acm.org/10.1145/964442.964466},
+   publisher = {ACM}
+}
+
+
+
+@article{10.1109/mis.2004.1265882,
+   journal = {IEEE Intelligent Systems},
+   author = "Yolanda Gil and Ewa Deelman and Jim Blythe and Carl Kesselman and Hongsuda Tangmunarunkit",
+   title = "Artificial Intelligence and Grids: Workflow Planning and Beyond",
+   issn = {1541-1672},
+   address = {Los Alamitos CA},
+   pages = {26-33},
+   volume = "19",
+   number = "1",
+   year = 2004,
+   doi = "http://doi.ieeecomputersociety.org/10.1109/MIS.2004.1265882",
+   publisher = {IEEE Computer Society},
+}
+
+
+
+@article{1084811,
+   journal = {SIGMOD Rec.},
+   author = {Philip Maechling and Hans Chalupsky and Maureen Dougherty and Ewa Deelman and Yolanda Gil and Sridhar Gullapalli and Vipin Gupta and Carl Kesselman and Jihic Kim and Gaurang Mehta and Brian Mendenhall and Thomas Russ and Gurmeet Singh and Marc Spraragen and Garrick Staples and Karan Vahi},
+   title = "Simplifying construction of complex workflows for non-expert users of the Southern California Earthquake Center Community Modeling Environment",
+   issn = "0163-5808",
+   address = "New York NY",
+   pages = {24--30},
+   volume = 34,
+   number = "3",
+   year = "2005",
+   doi = {http://doi.acm.org/10.1145/1084805.1084811},
+   publisher = ACM
+}
+
+
+
+@inproceedings{1007607,
+   author = {Xifeng Yan and Philip S. Yu and Jiawei Han},
+   title = {Graph indexing: a frequent structure-based approach},
+   location = {Paris France},
+   address = {New York NY},
+   isbn = {1-58113-859-8},
+   pages = {335--346},
+   booktitle = "SIGMOD 04: Proceedings of the 2004 ACM SIGMOD international conference on Management of data",
+   year = "2004",
+   doi = "http://doi.acm.org/10.1145/1007568.1007607",
+   publisher = ACM
+}
+
+
+
+@article{simmhan2008karma2,
+   journal = "International Journal of Web Services Research Idea Group Publishing",
+   abstract = {The increasing ability for the sciences to sense the world aroundus is resulting in a growing need for data driven applications thatare under the control of workflows composed of services on the Grid.The focus of our work is on provenance collection for these workflowsnecessary to validate the workflow and to determine quality of generateddata products. The challenge we address is to record uniform andusable provenance metadata that meets the domain needs while minimizingthe modification burden on the service authors and the performanceoverhead on the workflow engine and the services. The frameworkis based on generating discrete provenance activities during thelifecycle of a workflow execution that can be aggregated to formcomplex data and process provenance graphs that can span acrossworkflows. The implementation uses a loosely-coupled publish-subscribearchitecture for propagating these activities and the capabilitiesof the system satisfies the needs of detailed provenance collection.A performance evaluation of a prototype finds a minimal performanceoverhead in the range of 1 for an eight service workflow using271 data products.},
+   timestamp = "2007-06-06",
+   author = {Yogesh L. Simmhan and Beth Plale and Dennis Gannon},
+   title = {Karma2: Provenance Management for Data Driven Workflows},
+   pdf = "C:datadocsphdpublicationsimmhan-jwsr-2008.pdf",
+   pages = "1",
+   volume = 5,
+   owner = {ysimmhan},
+   year = "2008",
+   url = {http://www.cs.indiana.edu/ysimmhan/l/pubs/simmhan-jwsr-2008.pdf},
+}
+
+
+
+@techreport{simmhan2005bsurvey,
+   abstract = "Data management is growing in complexity as large-scale applicationstake advantage of the loosely coupled resources brought togetherby grid middleware and by abundant storage capacity. Metadata describingthe data products used in and generated by these applications isessential to disambiguate the data and enable reuse. Data provenanceone kind of metadata pertains to the derivation history of a dataproduct starting from its original sources. The provenance of dataproducts generated by complex transformations such as workflowsis of considerable value to scientists. From it one can ascertainthe quality of the data based on its ancestral data and derivationstrack back sources of errors allow automated re-enactment of derivationsto update a data and provide attribution of data sources. Provenanceis also essential to the business domain where it can be used todrill down to the source of data in a data warehouse track thecreation of intellectual property and provide an audit trail forregulatory purposes. In this paper we create a taxonomy of dataprovenance techniques and apply the classification to current researchefforts in the field. The main aspect of our taxonomy categorizesprovenance systems based on why they record provenance what theydescribe how they represent and store provenance and ways to disseminateit. Our synthesis can help those building scientific and businessmetadata-management systems to understand existing provenance systemdesigns. The survey culminates with an identification of open researchproblems in the field.",
+   timestamp = "2007-06-06",
+   author = "Yogesh L. Simmhan and Beth Plale and Dennis Gannon",
+   title = {A Survey of Data Provenance Techniques},
+   keywords = ysimmhan,
+   pdf = {C:datadocsphdpublicationsimmhan-tr618-2005.pdf},
+   owner = ysimmhan,
+   year = 2005,
+   number = 612,
+   booktitle = {Technical Report TR-612 Computer Science Department Indiana University},
+   url = "http://www.cs.indiana.edu/ysimmhan/l/pubs/simmhan-tr618-2005.pdf",
+   institution = {Computer Science Department Indiana University}
+}
+
+
+
+@inproceedings{schmitt02,
+   author = "Schmitt Sascha and Dopichaj Philipp and Dominguez-Marin Patricia",
+   series = "ECCBR 02",
+   title = {Entropy-Based vs. Similarity-Influenced: Attribute Selection Methods for Dialogs Tested on      Different Electronic Commerce Domains},
+   address = {London UK UK},
+   isbn = "3-540-44109-3",
+   pages = {380-394},
+   numpages = "15",
+   booktitle = {Advances in Case-Based Reasoning: Proceedings of the Sixth         European Conference on Case-Based Reasoning},
+   year = {2002},
+   url = "http://portal.acm.org/citation.cfmid646180.682598",
+   publisher = {Springer-Verlag}
+}
+
+
+
+@article{shannon48,
+   journal = "Communication Bell System Technical Journal",
+   author = {Claude Shannon and Noshirwan Petigara and Satwiksai Seshasai},
+   title = "A Mathematical Theory of Communication",
+   pages = "379-423",
+   volume = {27},
+   year = {1948}
+}
+
+
+
+@article{mcsherry11,
+   journal = "Artificial Intelligence in Medicine",
+   author = {David McSherry},
+   title = {Conversational case-based reasoning in medical decision               making},
+   ee = {http://dx.doi.org/10.1016/j.artmed.2011.04.007},
+   bibsource = "DBLP http://dblp.uni-trier.de",
+   pages = {59-66},
+   volume = 52,
+   number = {2},
+   year = {2011}
+}
+
+
+
+@inproceedings{gupta01,
+   author = "K. Gupta",
+   series = "ICCBR 01",
+   title = "Taxonomic Conversational Case-Based Reasoning",
+   acmid = 683866,
+   address = {Berlin},
+   isbn = "3-540-42358-3",
+   pages = {219--233},
+   numpages = {15},
+   booktitle = "Proceedings of the Fourth International Conference on Case-Based Reasoning: Case-Based Reasoning Research and Development",
+   year = "2001",
+   url = "http://dl.acm.org/citation.cfmid646268.683866",
+   publisher = {Springer-Verlag}
+}
+
+
+
+@incollection{leake01-soc-behav-encyc,
+   edition = ,
+   author = {D.B. Leake},
+   title = "Problem Solving and Reasoning: Case-based",
+   editor = {Editors-in-Chief:  Neil J. Smelser and Paul B. Baltes},
+   address = Oxford,
+   pages = "12117 - 12120",
+   isbn = {978-0-08-043076-8},
+   booktitle = "International Encyclopedia of the Social amp Behavioral Sciences",
+   year = "2001",
+   doi = {10.1016/B0-08-043076-7/00545-3},
+   url = {http://www.sciencedirect.com/science/article/pii/B0080430767005453},
+   publisher = "Pergamon"
+}
+
+
+
+@inproceedings{ricci03,
+   series = {ICCBR03},
+   location = "Trondheim Norway",
+   acmid = 1760461,
+   pages = "479--493",
+   booktitle = {Proceedings of the 5th international conference on Case-based reasoning: Research and Development},
+   url = "http://dl.acm.org/citation.cfmid1760422.1760461",
+   publisher = {Springer-Verlag},
+   author = {Ricci Francesco and Venturini Adriano and Cavada Dario and Mirzadeh Nader and Blaas Dennis and Nones Marisa},
+   title = "Product recommendation with interactive query management and twofold similarity",
+   address = "Berlin Heidelberg",
+   isbn = "3-540-40433-3",
+   numpages = 15,
+   year = "2003"
+}
+
+
+
+@misc{frank-asuncion10,
+   author = "A. Frank and A. Asuncion",
+   title = {UCI Machine Learning Repository},
+   year = 2010,
+   note = "http://archive.ics.uci.edu/ml",
+   institution = {University of California Irvine School of Information and Computer Sciences}
+}
+
+
+
+@article{shiu-et-al01,
+   journal = "Computational Intelligence",
+   author = {S. Shiu and D. Yeung and C. Sun and X. Wang},
+   title = {Transferring Case Knowledge To Adaptation Knowledge: An Approach for Case-Base Maintenance},
+   issn = {1467-8640},
+   pages = "295--314",
+   volume = {17},
+   number = 2,
+   year = 2001,
+   url = "http://dx.doi.org/10.1111/0824-7935.00146",
+   doi = {10.1111/0824-7935.00146},
+   publisher = "Blackwell Publishers Ltd"
+}
+
+
+
+@techreport{mille06,
+   author = {A. Mille},
+   title = "From Case-Based Reasoning to Traces Based Reasoning",
+   year = "2006",
+   number = 2281,
+   institution = {uppercaseLIRIS University of Lyon}
+}
+
+
+
+@inproceedings{gu-aamodt05,
+   author = "Mingyang Gu and Agnar Aamodt",
+   title = {A knowledge-intensive method for conversational                  uppercaseCBR},
+   pages = {296-311},
+   booktitle = {International Conference on Case-Based Reasoning},
+   year = 2005,
+   publisher = "Springer",
+}
+
+
+
+@inproceedings{mirzadeh-ricci-bansal05,
+   author = {Nader Mirzadeh and Francesco Ricci and Mukesh Bansal},
+   title = "Feature Selection Methods for Conversational Recommender Systems",
+   address = {Los Alamitos CA USA},
+   pages = "772-777",
+   booktitle = "Proceedings of IEEE Conference on e-Technology e-Commerce and e-Services",
+   year = "2005",
+   doi = "http://doi.ieeecomputersociety.org/10.1109/EEE.2005.75",
+   publisher = "IEEE Computer Society"
+}
+
+
+
+@inproceedings{beygelzimer06,
+   author = "A. Beygelzimer and S. Kakade and J. Langford",
+   title = {Cover trees for nearest neighbor},
+   address = {New York},
+   pages = {97--104},
+   booktitle = {Proceedings of the 23rd international conference on Machine learning},
+   year = {2006},
+   publisher = "ACM Press"
+}
+
+
+
+@proceedings{dblp:conf/iccbr/2011,
+   series = {Lecture Notes in Computer Science},
+   editor = "Ashwin Ram and               Nirmalie Wiratunga",
+   title = {Case-Based Reasoning Research and Development - 19th International               Conference on Case-Based Reasoning ICCBR 2011 London               UK September 12-15 2011. Proceedings},
+   ee = "http://dx.doi.org/10.1007/978-3-642-23291-6",
+   bibsource = {DBLP http://dblp.uni-trier.de},
+   isbn = "978-3-642-23290-9",
+   volume = {6880},
+   booktitle = "ICCBR",
+   year = 2011,
+   publisher = {Springer}
+}
+
+
+
+@inproceedings{bogaerts-rank,
+   series = {ECCBR 08},
+   location = {Trier Germany},
+   acmid = 1433183,
+   pages = {74--88},
+   booktitle = "Proceedings of the 9th European conference on Advances in Case-Based Reasoning",
+   url = "http://dx.doi.org/10.1007/978-3-540-85502-6_5",
+   publisher = {Springer-Verlag},
+   author = "Bogaerts Steven and Leake David",
+   title = "Formal and Experimental Foundations of a New Rank Quality Measure",
+   address = "Berlin Heidelberg",
+   isbn = {978-3-540-85501-9},
+   numpages = {15},
+   year = {2008},
+   doi = "http://dx.doi.org/10.1007/978-3-540-85502-6_5",
+}
+
+
+
+@article{igraph,
+   issn = {2150-8097},
+   acmid = 1920901,
+   pages = "449--459",
+   issue_date = {September 2010},
+   number = "1-2",
+   url = "http://dl.acm.org/citation.cfmid1920841.1920901",
+   publisher = "VLDB Endowment",
+   journal = {Proc. VLDB Endow.},
+   author = "Han Wook-Shin and Lee Jinsoo and Pham Minh-Duc and Yu Jeffrey Xu",
+   title = {iGraph: a framework for comparisons of disk-based graph indexing techniques},
+   volume = "3",
+   numpages = {11},
+   year = 2010
+}
+
+
+
+@article{pubchem,
+   abstract = {PubChem is an open repository for experimental data identifying the biological activities of small molecules. PubChem contents include more than: 1000 bioassays 28 million bioassay test outcomes 40 million substance contributed descriptions and 19 million unique compound structures contributed from over 70 depositing organizations. PubChem provides a significant publicly accessible platform for mining the biological information of small molecules.},
+   journal = {Annual Reports in Computational Chemistry},
+   author = "Bolton E. E. and Wang Y. and Thiessen P. A. and Bryant S. H.",
+   title = "PubChem: Integrated Platform of Small Molecules and Biological Activities",
+   keywords = {database metabolite},
+   posted-at = {2009-05-27 11:13:06},
+   priority = 2,
+   volume = "4",
+   year = 2008,
+   citeulike-article-id = 4643246,
+}
+
+
+
+@inproceedings{wings-gil07,
+   author = "Gil Yolanda and Ratnakar Varun and Deelman Ewa and Mehta Gaurang and Kim Jihie",
+   title = "Wings for Pegasus: creating large-scale scientific applications using semantic representations of computational workflows",
+   location = {Vancouver British Columbia Canada},
+   acmid = "1620127",
+   isbn = {978-1-57735-323-2},
+   pages = {1767--1774},
+   numpages = {8},
+   booktitle = {Proceedings of the 19th national conference on Innovative applications of artificial intelligence - Volume 2},
+   year = {2007},
+   url = "http://dl.acm.org/citation.cfmid1620113.1620127",
+   publisher = "AAAI Press"
+}
+
+
+
+@inproceedings{yan2004,
+   series = "SIGMOD 04",
+   location = "Paris France",
+   acmid = {1007607},
+   pages = {335--346},
+   booktitle = "Proceedings of the 2004 ACM SIGMOD international conference on Management of data",
+   url = "http://doi.acm.org/10.1145/1007568.1007607",
+   publisher = {ACM},
+   author = {Yan Xifeng and Yu Philip S. and Han Jiawei},
+   title = {Graph indexing: a frequent structure-based approach},
+   address = "New York NY USA",
+   isbn = "1-58113-859-8",
+   numpages = 12,
+   year = {2004},
+   doi = {http://doi.acm.org/10.1145/1007568.1007607}
+}
+
+
+
+@article{simmhan08karma2,
+   journal = {International Journal of Web Services Research Idea Group Publishing},
+   author = {Yogesh L. Simmhan and Beth Plale and Dennis Gannon},
+   title = "Karma2: Provenance management for data driven workflows",
+   volume = 5,
+   year = 2008
+}
+
+
+
+@article{angles08,
+   keywords = "Database systems database models graph database models graph databases graph integrity constraints graph query languages",
+   issn = {0360-0300},
+   acmid = 1322433,
+   issue = 1,
+   pages = "1:1--1:39",
+   url = "http://doi.acm.org/10.1145/1322432.1322433",
+   publisher = "ACM",
+   journal = "ACM Comput. Surv.",
+   author = {Angles Renzo and Gutierrez Claudio},
+   title = "Survey of graph database models",
+   address = {New York NY USA},
+   volume = 40,
+   month = "February",
+   numpages = "39",
+   year = 2008,
+   articleno = 1,
+   doi = "http://doi.acm.org/10.1145/1322432.1322433"
+}
+
+
+
+@article{giugno_shasha_2002,
+   abstract = {GraphGrep is an application-independent method for querying graphs finding all the occurrences of a subgraph in a database of graphs. The interface to GraphGrep is a regular expression graph query language Glide that combines features from Xpath and Smart. Glide incorporates both single node and variable-length wildcards. Our algorithm uses hash-based fingerprinting to represent the graphs in an abstract form and to filter the database. GraphGrep has been tested on databases of size up to 16000 molecules and performs well in this entire range.},
+   journal = "Object recognition supported by user interaction for service robots",
+   author = "Giugno R and Shasha D",
+   title = {GraphGrep: A fast and universal method for querying graphs},
+   pages = "112--115",
+   volume = {2},
+   number = c,
+   year = {2002},
+   url = "http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htmarnumber1048250",
+   publisher = {IEEE Comput. Soc},
+}
+
+
+
+@inproceedings{stahl2008,
+   series = {ECCBR 08},
+   location = {Trier Germany},
+   acmid = {1433221},
+   pages = "615--629",
+   booktitle = "Proceedings of the 9th European conference on Advances in Case-Based Reasoning",
+   url = {http://dx.doi.org/10.1007/978-3-540-85502-6_42},
+   publisher = "Springer-Verlag",
+   author = {Stahl Armin and Roth-Berghofer Thomas R.},
+   title = "Rapid Prototyping of CBR Applications with the Open Source Tool myCBR",
+   address = {Berlin Heidelberg},
+   isbn = {978-3-540-85501-9},
+   numpages = 15,
+   year = {2008},
+   doi = "http://dx.doi.org/10.1007/978-3-540-85502-6_42"
+}
+
+
+
+@inproceedings{goble2007,
+   series = {WORKS 07},
+   keywords = "Taverna bioinformatics e-Science myExperiment myGrid scientist social networking workflow",
+   location = "Monterey California USA",
+   acmid = {1273361},
+   pages = {1--2},
+   booktitle = "Proceedings of the 2nd workshop on Workflows in support of large-scale science",
+   url = "http://doi.acm.org/10.1145/1273360.1273361",
+   publisher = {ACM},
+   author = "Goble Carole Anne and De Roure David Charles",
+   title = {myExperiment: social networking for workflow-using e-scientists},
+   address = "New York NY USA",
+   isbn = {978-1-59593-715-5},
+   numpages = 2,
+   year = {2007},
+   doi = "http://doi.acm.org/10.1145/1273360.1273361"
+}
+
+
+
+@article{taverna,
+   pmid = 16845108,
+   issn = {1362-4962},
+   journal = "Nucleic acids research",
+   author = "Hull Duncan and Wolstencroft Katy and Stevens Robert and Goble Carole and Pocock Mathew R. and Li Peter and Oinn Tom",
+   title = "Taverna: a tool for building and running workflows of services.",
+   priority = "2",
+   year = {2006},
+   citeulike-linkout-0 = "http://dx.doi.org/10.1093/nar/gkl320",
+   abstract = "Taverna is an application that eases the use and integration of the growing number of molecular biology tools and databases available on the web especially web services. It allows bioinformaticians to construct workflows or pipelines of services to perform a range of different analyses such as sequence analysis and genome annotation. These high-level workflows can integrate many different resources into a single analysis. Taverna is available freely under the terms of the GNU Lesser General Public License LGPL from http://taverna.sourceforge.net/.",
+   posted-at = "2009-09-19 18:48:04",
+   pages = "W729--732",
+   citeulike-linkout-5 = {http://view.ncbi.nlm.nih.gov/pubmed/16845108},
+   citeulike-linkout-6 = {http://www.hubmed.org/display.cgiuids16845108},
+   number = "Web Server issue",
+   citeulike-article-id = "1041436",
+   citeulike-linkout-1 = {http://nar.oxfordjournals.org/content/34/suppl_2/W729.abstract},
+   citeulike-linkout-2 = "http://nar.oxfordjournals.org/content/34/suppl_2/W729.full.pdf",
+   citeulike-linkout-3 = {http://nar.oxfordjournals.org/cgi/content/abstract/34/suppl_2/W729},
+   url = {http://dx.doi.org/10.1093/nar/gkl320},
+   citeulike-linkout-4 = {http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1538887/},
+   pmcid = "PMC1538887",
+   address = {School of Computer Science University of Manchester M13 9PL UK. duncan.hullcs.man.ac.uk},
+   volume = {34},
+   day = 1,
+   doi = {10.1093/nar/gkl320}
+}
+
+
+
+@inproceedings{trident,
+   keywords = {scientific workflow scheduling e-Science},
+   acmid = 1488936,
+   pages = "317--318",
+   booktitle = "Proceedings of the 2008 Fourth IEEE International Conference on eScience",
+   url = {http://dl.acm.org/citation.cfmid1488725.1488936},
+   publisher = {IEEE Computer Society},
+   author = "Barga Roger and Jackson Jared and Araujo Nelson and Guo Dean and Gautam Nitin and Simmhan Yogesh",
+   title = "The Trident Scientific Workflow Workbench",
+   address = {Washington DC USA},
+   isbn = {978-0-7695-3535-7},
+   numpages = "2",
+   year = 2008,
+   doi = "10.1109/eScience.2008.126",
+}
+
+
+
+@inproceedings{kepler,
+   author = {Altintas Ilkay and Berkley Chad and Jaeger Efrat and Jones Matthew and Ludascher Bertram and Mock Steve},
+   title = "Kepler: An Extensible System for Design and Execution of Scientific Workflows",
+   acmid = 1007097,
+   address = {Washington DC USA},
+   isbn = {0-7695-2146-0},
+   pages = "423--",
+   booktitle = {Proceedings of the 16th International Conference on Scientific and Statistical Database Management},
+   year = {2004},
+   url = {http://dl.acm.org/citation.cfmid998688.1007097},
+   doi = "10.1109/SSDBM.2004.44",
+   publisher = {IEEE Computer Society}
+}
+
+
+
+@article{jscp07buildingcbrsystems,
+   journal = "Special Issue on Experimental Software and Toolkits of the Journal Science of Computer Programming",
+   author = "Diaz-Agudo Belen and Gonzalez-Calero Pedro A. and Recio-Garcia Juan A. and Sanchez-Ruiz Antonio A.",
+   title = {Building CBR systems with jCOLIBRI},
+   issn = {0167-6423},
+   address = {United Kingdom},
+   pages = {68-75},
+   volume = 69,
+   number = "1-3",
+   year = 2007,
+   doi = {10.1016/j.scico.2007.02.004},
+   publisher = {Elsevier Science}
+}
+
+
+
+@techreport{infinitegraph,
+   AUTHOR = "van der Lans Rick F.",
+   INSTITUTION = "R20/Consultancy",
+   YEAR = "2010",
+   MONTH = September,
+   TYPE = {Technical Whitepaper},
+   TITLE = "InfiniteGraph: Extending Business Social and Government Intelligence with Graph Analytics"
+}
+
+
+
+@inproceedings{iordanov2010,
+   series = WAIM10,
+   keywords = "database distributed hypergraph knowledge representation semantic web",
+   location = "Jiuzhaigou Valley China",
+   acmid = "1927589",
+   pages = "25--36",
+   booktitle = "Proceedings of the 2010 international conference on Web-age information management",
+   url = "http://portal.acm.org/citation.cfmid1927585.1927589",
+   publisher = "Springer-Verlag",
+   author = {Iordanov Borislav},
+   title = "HyperGraphDB: a generalized graph database",
+   address = {Berlin Heidelberg},
+   isbn = "3-642-16719-5 978-3-642-16719-5",
+   numpages = 12,
+   year = "2010"
+}
+
+
+
+@inproceedings{martinez-bazan2007,
+   series = {CIKM 07},
+   keywords = "data representation graph databases information retrieval query performance social networks",
+   location = {Lisbon Portugal},
+   acmid = 1321521,
+   pages = {573--582},
+   booktitle = "Proceedings of the sixteenth ACM conference on Conference on information and knowledge management",
+   url = "http://doi.acm.org/10.1145/1321440.1321521",
+   publisher = {ACM},
+   author = "Martinez-Bazan Norbert and Muntes-Mulero Victor and Gomez-Villamor Sergio and Nin Jordi and Sanchez-Martinez Mario-A. and Larriba-Pey Josep-L.",
+   title = "Dex: high-performance exploration on large graphs for information retrieval",
+   address = "New York NY USA",
+   isbn = {978-1-59593-803-9},
+   numpages = 10,
+   year = 2007,
+   doi = "http://doi.acm.org/10.1145/1321440.1321521"
+}
+
+
+
+@article{giannadakis2003,
+   keywords = {annotating information data integration distributed querying grids heterogeneous information resources information referencing knowledge discovery wrappers},
+   issn = {0020-0255},
+   acmid = {966314},
+   issue = {3-4},
+   pages = {199--226},
+   url = {http://portal.acm.org/citation.cfmid966311.966314},
+   publisher = "Elsevier Science Inc.",
+   journal = {Inf. Sci. Inf. Comput. Sci.},
+   author = {Giannadakis Nikolaos and Rowe Anthony and Ghanem Moustafa and Guo Yi-ke},
+   title = {InfoGrid: providing information integration for knowledge discovery},
+   address = "New York NY USA",
+   volume = "155",
+   month = {October},
+   numpages = 28,
+   year = "2003",
+   doi = "10.1016/S0020-02550300170-1"
+}
+
+
+
+@inproceedings{wang2009,
+   series = {EDBT 09},
+   keywords = "k-NNs search graph classification graph kernels graph similarity query hashing",
+   location = {Saint Petersburg Russia},
+   acmid = "1516416",
+   pages = {472--480},
+   booktitle = "Proceedings of the 12th International Conference on Extending Database Technology: Advances in Database Technology",
+   url = {http://doi.acm.org/10.1145/1516360.1516416},
+   publisher = "ACM",
+   author = {Wang Xiaohong and Smalter Aaron and Huan Jun and Lushington Gerald H.},
+   title = "G-hash: towards fast kernel-based similarity search in large graph databases",
+   address = {New York NY USA},
+   isbn = "978-1-60558-422-5",
+   numpages = 9,
+   year = "2009",
+   doi = {http://doi.acm.org/10.1145/1516360.1516416}
+}
+
+
+
+@article{tian07,
+   issn = {1367-4803},
+   acmid = 1216633,
+   issue = 2,
+   pages = "232--239",
+   url = "http://portal.acm.org/citation.cfmid1216593.1216633",
+   publisher = {Oxford University Press},
+   journal = Bioinformatics,
+   author = {Tian Yuanyuan and Mceachin Richard C. and Santos Carlos and States David J. and Patel Jignesh M.},
+   title = "SAGA: a subgraph matching tool for biological graphs",
+   address = "Oxford UK",
+   volume = {23},
+   month = January,
+   numpages = "8",
+   year = 2007,
+   doi = "10.1093/bioinformatics/btl571"
+}
+
+
+
+@inproceedings{yan2005,
+   series = "SIGMOD 05",
+   location = {Baltimore Maryland},
+   acmid = 1066244,
+   pages = {766--777},
+   booktitle = "Proceedings of the 2005 ACM SIGMOD international conference on Management of data",
+   url = {http://doi.acm.org/10.1145/1066157.1066244},
+   publisher = "ACM",
+   author = "Yan Xifeng and Yu Philip S. and Han Jiawei",
+   title = "Substructure similarity search in graph databases",
+   address = {New York NY USA},
+   isbn = "1-59593-060-4",
+   numpages = 12,
+   year = 2005,
+   doi = "http://doi.acm.org/10.1145/1066157.1066244"
+}
+
+
+
+@misc{singh96,
+   author = {Singh Munindar P. and Vouk Mladen A.},
+   organization = "NSF",
+   title = {Scientific Workflows:Scientific Computing Meets Transactional Workflows},
+   keywords = {sci-workflow workflow},
+   posted-at = "2005-08-01 06:19:12",
+   priority = {3},
+   booktitle = "NSF Workshop on Workflow and Process Automation in Information Systems: State of the Art and Future Directions",
+   year = {1996},
+   citeulike-article-id = "270559",
+   citeulike-linkout-0 = {http://www.csc.ncsu.edu/faculty/mpsingh/papers/databases/workflows/sciworkflows.html},
+   url = {http://www.csc.ncsu.edu/faculty/mpsingh/papers/databases/workflows/sciworkflows.html}
+}
+
+
+
+@article{ecs15032,
+   journal = {IEEE Software},
+   abstract = {Scientific research is increasingly digital. Some activities such as data analysis search and simulation can be accelerated by letting scientists write workflows and scripts that automate routine activities. These capture pieces of the scientific method that scientists can share. The averna Workbench a widely deployed scientific-workflow-management system together with the myExperiment social Web site for sharing scientific experiments follow six principles of designing software for adoption by scientists and six principles of user engagement.},
+   author = "David De Roure and Carole Goble",
+   title = {Software Design for Empowering Scientists},
+   pages = "88--95",
+   volume = 26,
+   month = January,
+   number = 1,
+   year = 2009,
+   url = {http://eprints.ecs.soton.ac.uk/15032/},
+   publisher = {IEEE Computer Society}
+}
+
+
+
+@inproceedings{yan2006,
+   author = {Yan Xifeng and Zhu Feida and Han Jiawei and Yu Philip S.},
+   series = "ICDE 06",
+   title = "Searching Substructures with Superimposed Distance",
+   acmid = 1129948,
+   address = "Washington DC USA",
+   isbn = "0-7695-2570-9",
+   pages = {88--},
+   booktitle = {Proceedings of the 22nd International Conference on Data Engineering},
+   year = "2006",
+   url = "http://dx.doi.org/10.1109/ICDE.2006.136",
+   doi = "http://dx.doi.org/10.1109/ICDE.2006.136",
+   publisher = {IEEE Computer Society}
+}
+
+
+
+@article{tian2008,
+   issn = "2150-8097",
+   acmid = "1454184",
+   issue = 2,
+   pages = {1404--1407},
+   issue_date = {August 2008},
+   url = "http://dx.doi.org/10.1145/1454159.1454184",
+   publisher = "VLDB Endowment",
+   journal = {Proc. VLDB Endow.},
+   author = "Tian Yuanyuan and Patel Jignesh M. and Nair Viji and Martini Sebastian and Kretzler Matthias",
+   title = "Periscope/GQ: a graph querying toolkit",
+   volume = {1},
+   month = August,
+   numpages = "4",
+   year = 2008,
+   doi = "http://dx.doi.org/10.1145/1454159.1454184"
+}
+
+
+
+@article{stonebraker2010,
+   issn = "0001-0782",
+   acmid = 1721659,
+   issue = "4",
+   pages = "10--11",
+   issue_date = "April 2010",
+   url = {http://doi.acm.org/10.1145/1721654.1721659},
+   publisher = {ACM},
+   journal = "Commun. ACM",
+   author = "Stonebraker Michael",
+   title = "SQL databases v. NoSQL databases",
+   address = {New York NY USA},
+   volume = 53,
+   month = {April},
+   numpages = 2,
+   year = {2010},
+   doi = "http://doi.acm.org/10.1145/1721654.1721659"
+}
+
+
+
+@inproceedings{dominguez-sal,
+   series = "WAIM10",
+   location = "Jiuzhaigou Valley China",
+   acmid = {1927590},
+   pages = "37--48",
+   booktitle = {Proceedings of the 2010 international conference on Web-age information management},
+   url = {http://portal.acm.org/citation.cfmid1927585.1927590},
+   publisher = {Springer-Verlag},
+   author = {Dominguez-Sal D. and Urbon-Bayes P. and Gimenez-Vano A. and Gomez-Villamor S. and Martinez-Bazan N. and Larriba-Pey J. L.},
+   title = {Survey of graph database performance on the HPC scalable graph analysis benchmark},
+   address = "Berlin Heidelberg",
+   isbn = {3-642-16719-5 978-3-642-16719-5},
+   numpages = 12,
+   year = 2010,
+}
+
+
+
+@inproceedings{vicknair,
+   series = "ACM SE 10",
+   location = "Oxford Mississippi",
+   acmid = 1900067,
+   pages = "42:1--42:6",
+   booktitle = {Proceedings of the 48th Annual Southeast Regional Conference},
+   url = "http://doi.acm.org/10.1145/1900008.1900067",
+   publisher = {ACM},
+   author = "Vicknair Chad and Macias Michael and Zhao Zhendong and Nan Xiaofei and Chen Yixin and Wilkins Dawn",
+   title = {A comparison of a graph database and a relational database: a data provenance perspective},
+   address = {New York NY USA},
+   isbn = "978-1-4503-0064-3",
+   numpages = {6},
+   year = "2010",
+   articleno = 42,
+   doi = {http://doi.acm.org/10.1145/1900008.1900067}
+}
+
+
+
+@article{cunningham:2009:tsm:1638612.1639243,
+   issn = "1041-4347",
+   acmid = "1639243",
+   pages = "1532--1543",
+   issue_date = {November 2009},
+   number = 11,
+   url = "http://dx.doi.org/10.1109/TKDE.2008.227",
+   publisher = "IEEE Educational Activities Department",
+   journal = {IEEE Trans. on Knowl. and Data Eng.},
+   author = "Cunningham Padraig",
+   title = "A Taxonomy of Similarity Mechanisms for Case-Based Reasoning",
+   address = {Piscataway NJ USA},
+   volume = {21},
+   month = nov,
+   numpages = 12,
+   year = 2009,
+   doi = {10.1109/TKDE.2008.227}
+}
+
+

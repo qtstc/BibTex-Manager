@@ -1,0 +1,102 @@
+Use Case 1 : Loading a Bibliography File 
+1. The user opens the program
+2. The user clicks 'File' --> 'Open...'
+3. The program opens the file explorer window
+4. The user chooses the file to import from dialog box
+5. Program reads the file
+6. Program creates an interactive bibliography object
+7. The user manipulates the bibliography file
+
+	Variation: The User attempts to open an unsupported file
+	1.1	In step 4, the user chooses an invalid file type from dialog box
+	1.2	The user is alerted that the file type is unsupported
+	1.3	Continue from step 2
+
+
+Use Case 2 : Adding a Citation to a Bibliography
+1. The user loads bibliography file using the use case above
+2. The user clicks 'Bibliography' --> 'Add Citation'
+3. A new citation is created with type set as "misc" and key set as "new_key"
+4. The program shows the new citation in the citation edit panel on the right.
+5. The user changes the type, key or fields of the new citation.
+6. The user saves the citation by clicking the "Save" button at the bottom of the edit panel.
+
+	Variation: The user leaves required fields blank when adding citation
+	1.1	In step 6, the user leaves required fields blank
+	1.2	The user clicks 'Save' in citation edit panel
+	1.3	The program alerts the user that required fields are blank
+	1.4	Continue from step 5
+
+	Variation: The user attempts to save a citation that has the same key as one in the bibliography
+	2.1	In step 6, the user attempts to save a citation with a duplicate key
+	2.2	The user clicks 'Save' in citation edit panel
+	2.3	The program alerts the user that the citation already exists
+	2.4	Continue from step 5
+
+
+Use Case 3 : Remove a Citation from a Bibliography
+1. The user selects a citation inside the list of citations or the list of search result
+2. The user clicks "Bibliography" --> "Remove citation"
+3. The citation selected is then removed
+4. The list is refreshed
+
+	Variation: The user wants to remove multiple citations
+	1.1 The user selects multiple citations by hold "Control" or "Shift" 
+	1.2 Continue from step 2 
+
+
+Use case 4 : The user wants to change a field they have previously entered in a citation
+1. The user loads a bibliography
+2. The user selects the citation they want to change from the list on the left
+3. The program displays the fields in this citation in the main window on the right
+4. The user selects the value in the table shown
+5. The user edits the text in the field and then clicks "save" at the bottom
+6. The citation's field is modified in the program and saved accordingly
+
+	Variation: The user does not see the field they want to have
+	1.1 The user clicks 'Add Field' at the top of the main frame
+	1.2 A new empty row is added to the end of the table
+	1.3 The user selects the first column of the table and types in the new field name
+	1.4 Continue from step 4
+	
+	Variation: The user wants to delete an optional field
+	2.1 The user select the entry needs to be deleted by click on the row
+	2.2 The user clicks the "Remove Field" button at the top
+	2.3 Continue from step 5
+
+
+Use Case 5 : The user wants to find a specific citation in a large bibliography
+1. The user clicks the "search" tab at the top of the left panel
+2. The user selects the field that they want to search for and types in the value
+3. The program goes through the bibliography and shows the citations that match that value
+4. The user selects the citation they were looking for
+5. The program opens that citation and allows the user to edit it normally.
+
+
+Use Case 6 : The user wants to sort the citations in a bibliography
+1. The user navigates to "Bibliography" --> "Sort"
+2. The user chooses the criteria used for sorting in the "Sort" menu shown.
+3. The program sorts the citations in the bibliography
+
+	Variation: The citations in the bibliography cannot be sorted because some citations do not contain the field used for sorting
+	1.1 The user is notified that the bibliography cannot be sorted
+	1.2 Continue from step 1
+	
+	
+Use Case 7 : Save bibliography to a file
+1. The user clicks "File" --> "Save"
+2. A save dialog is shown to allow the user to choose the destination file
+3. The user choose the folder under which the file is to be saved and changes the file name
+4. User clicks "Save" in the save dialog'
+
+
+Use case 8 : Annotate a citation
+1. The user edits a citation following use case 4
+2. The user adds a field that has the name "Annotation" following the first variation of use case 4
+
+
+Use case 9 : Generate a bibliography file with a select subset of the entire bibliography.
+1. The user opens the original citation following use case 1
+2. The user removes the citations that will not be in the new bibliography following use case 3
+3. The user saves the new citation to another file following use case 7
+4. The user opens the original citation file to continue editing
